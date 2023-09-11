@@ -4,17 +4,19 @@
     "url": "https://chat.gopt.tech",
     "icon": "https://icons.duckduckgo.com/ip3/chat.gopt.tech.ico",
     "slug": "frankie-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 568,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
-    "dailyMinutesDown": {}
+    "time": 437,
+    "timeDay": 484,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
+    "dailyMinutesDown": {
+      "2023-09-11": 0
+    }
   }
 ]
