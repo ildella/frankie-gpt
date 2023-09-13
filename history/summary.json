@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.gopt.tech.ico",
     "slug": "frankie-gpt",
     "status": "down",
-    "uptime": "97.17%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.17%",
-    "uptimeYear": "97.17%",
+    "uptime": "78.92%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.92%",
+    "uptimeMonth": "78.92%",
+    "uptimeYear": "78.92%",
     "time": 437,
-    "timeDay": 399,
+    "timeDay": 0,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-09-12": 54,
+      "2023-09-13": 56,
+      "2023-09-12": 1440,
       "2023-09-11": 123
     }
   }
