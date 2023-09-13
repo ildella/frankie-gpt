@@ -1,24 +1,38 @@
 [
   {
-    "name": "Frankie-GPT",
-    "url": "https://chat.gopt.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/chat.gopt.tech.ico",
-    "slug": "frankie-gpt",
-    "status": "down",
-    "uptime": "78.92%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "78.92%",
-    "uptimeMonth": "78.92%",
-    "uptimeYear": "78.92%",
-    "time": 437,
+    "name": "Frankie-GPT Chat",
+    "url": "https://chat.frankie-gpt.com",
+    "icon": "https://icons.duckduckgo.com/ip3/chat.frankie-gpt.com.ico",
+    "slug": "frankie-gpt-chat",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
     "timeDay": 0,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
-    "dailyMinutesDown": {
-      "2023-09-13": 56,
-      "2023-09-12": 1440,
-      "2023-09-11": 123
-    }
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Frankie-GPT Website",
+    "url": "https://frankie-gpt.com",
+    "icon": "https://icons.duckduckgo.com/ip3/frankie-gpt.com.ico",
+    "slug": "frankie-gpt-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 524,
+    "timeDay": 524,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
+    "dailyMinutesDown": {}
   }
 ]
