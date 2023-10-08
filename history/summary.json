@@ -24,17 +24,19 @@
     "url": "https://frankie-gpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/frankie-gpt.com.ico",
     "slug": "frankie-gpt-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 345,
-    "timeWeek": 471,
-    "timeMonth": 463,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "time": 466,
+    "timeDay": 451,
+    "timeWeek": 482,
+    "timeMonth": 466,
+    "timeYear": 466,
+    "dailyMinutesDown": {
+      "2023-10-08": 0
+    }
   }
 ]
