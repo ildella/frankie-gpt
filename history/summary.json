@@ -4,9 +4,9 @@
     "url": "https://chat.frankie-gpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.frankie-gpt.com.ico",
     "slug": "frankie-gpt-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 917,
     "timeYear": 734,
     "dailyMinutesDown": {
+      "2024-01-01": 0,
       "2023-09-23": 16
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/frankie-gpt.com.ico",
     "slug": "frankie-gpt-website",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.77%",
-    "uptimeYear": "96.30%",
+    "uptimeYear": "96.33%",
     "time": 637,
     "timeDay": 597,
     "timeWeek": 787,
