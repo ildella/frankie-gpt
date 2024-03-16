@@ -32,7 +32,7 @@
     "url": "https://frankie-gpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/frankie-gpt.com.ico",
     "slug": "frankie-gpt-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +44,7 @@
     "timeMonth": 1067,
     "timeYear": 885,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-02-20": 15,
       "2024-02-18": 15,
       "2024-02-01": 28,
