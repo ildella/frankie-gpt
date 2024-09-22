@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.60%",
-    "time": 1069,
-    "timeDay": 693,
-    "timeWeek": 592,
-    "timeMonth": 548,
+    "time": 1068,
+    "timeDay": 625,
+    "timeWeek": 583,
+    "timeMonth": 552,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2024-08-25": 238,
@@ -32,8 +32,7 @@
       "2024-01-29": 44,
       "2024-01-26": 179,
       "2024-01-16": 16,
-      "2024-01-09": 29,
-      "2023-09-23": 16
+      "2024-01-09": 29
     }
   },
   {
@@ -42,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/frankie-gpt.com.ico",
     "slug": "frankie-gpt-website",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.75%",
     "time": 848,
-    "timeDay": 602,
-    "timeWeek": 652,
-    "timeMonth": 623,
+    "timeDay": 913,
+    "timeWeek": 691,
+    "timeMonth": 630,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2024-08-25": 238,
